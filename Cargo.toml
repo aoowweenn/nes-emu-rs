@@ -1,0 +1,9 @@
+[package]
+name = "nes-emu-rs"
+version = "0.1.0"
+authors = ["aoowweenn <aoowweenn@gmail.com>"]
+
+[dependencies]
+cpu6502 = { path = "cpu6502" }
+
+[workspace]
